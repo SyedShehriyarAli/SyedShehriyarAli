@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 💬 Ask me about **👋 Hello World! I'm [Syed Shehriyar Ali], a passionate front-end developer with a year of hands-on experience in crafting captivating web experiences. 💻✨
+- 💬 Ask me about **👋 Hello World! I'm [Syed Shehriyar Ali], a passionate front-end developer with a 1.5 year of hands-on experience in crafting captivating web experiences. 💻✨
 - 🌟 About Me: I thrive on transforming ideas into pixel-perfect realities and believe in the power of clean, elegant code to drive user engagement. With a keen eye for design and a knack for problem-solving, I'm dedicated to delivering seamless, intuitive user interfaces.
 -   🚀 Skills:
 -    🔹 Proficient in HTML5, CSS3, and JavaScript, I specialize in building responsive, mobile-first websites that prioritize user experience.
