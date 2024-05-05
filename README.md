@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshehriyarali&label=Profile%20views&color=0e75b6&style=flat" alt="syedshehriyarali" /> </p>
 
-- 🔭 I’m currently working on [Health Draw](https://healthdraws.com/ERP/Index)
+- 🔭 I’m currently working on [Health Draw](http://healthdraws.com/ERP/Index)
 
 - 🌱 I’m currently learning **react.js**
 
